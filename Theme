@@ -1,0 +1,6 @@
+  
+    $ git clone https://github.com/fullit/fullit.github.io USERNAME.github.io
+    $ cd USERNAME.github.io
+    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
+    $ git push origin master  
+  
